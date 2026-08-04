@@ -1,22 +1,34 @@
-# Developer Portfolio Website
+# 🚀 Personal Developer Portfolio
 
-An advanced, modern, dark-themed portfolio web application built with vanilla **HTML5**, **CSS3**, and modern **JavaScript (ES6+)**. Designed to showcase software engineering skills, featured projects, and contact information without relying on third-party frameworks or heavy external dependencies.
-
----
-
-## Features
-
-- **Interactive Terminal View:** Built-in dynamic typing animation mimicking a command-line interface.
-- **Dynamic Project Filtering:** Instant category-based project filtering (All, Frontend, Full Stack) using client-side JavaScript.
-- **Fully Responsive Layout:** Optimized mobile navigation drawer and dynamic layouts using CSS Grid and Flexbox.
-- **Modern UI Styling:** Styled with modern CSS variable themes, smooth scroll behaviors, and responsive element cards.
-- **Interactive Contact Form:** Validated input fields with real-time submission feedback.
+A responsive, dark-themed developer portfolio web application built with **pure HTML5, CSS3, and modern JavaScript (ES6+)**. Designed to showcase software engineering fundamentals, practice projects, and technical skills without relying on external frameworks or third-party libraries.
 
 ---
 
-## File Structure
+## ✨ Features
+
+- **⚡ Zero External Dependencies:** Built completely with vanilla HTML, CSS, and JavaScript for optimal performance and fast load times.
+- **🖥️ Dynamic Terminal Header:** Automated typing animation in a terminal interface to present key technical highlights.
+- **📱 Fully Responsive Layout:** Off-canvas mobile navigation menu powered by CSS and accessible DOM toggling.
+- **🎯 Dynamic Project Filtering:** Client-side JavaScript filtering to categorize projects by topic without reloading the page.
+- **🎨 Modern Dark Theme:** Clean layout using CSS Custom Properties (variables), Flexbox, and CSS Grid.
+- **🌐 Integrated Social Profiles:** Crisp inline SVGs and safe external links (`rel="noopener noreferrer"`) for GitHub, LinkedIn, and X/Twitter.
+- **📑 Accessible & Validated Contact Form:** Interactive form with client-side feedback and ARIA attributes for accessibility.
+
+---
+
+## 🛠️ Tech Stack
+
+- **HTML5:** Semantic structural layout and accessibility bindings (`aria-*`).
+- **CSS3:** Custom CSS properties, CSS Grid, Flexbox, media queries, and smooth animations.
+- **JavaScript (ES6+):** Async typing animations, DOM event handling, filter algorithms, and smooth scroll management.
+
+---
+
+## 📂 Project Structure
 
 ```text
-├── index.html   # Markup structure and content
-├── style.css    # Styling, layout, animations, and media queries
-└── script.js    # Interactive logic (terminal effect, navigation toggle, filtering)
+My-Portfolio/
+├── index.html    # Page structure, semantic tags, and markup
+├── style.css     # Design system, CSS variables, layout, and responsive styles
+├── script.js    # Interactive logic (terminal effect, navigation, project filter)
+└── README.md     # Project documentation
