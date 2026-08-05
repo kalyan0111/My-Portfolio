@@ -33,5 +33,5 @@ My-Portfolio/
 ├── script.js    # Interactive logic (terminal effect, navigation, project filter)
 └── README.md     # Project documentation
 ```
-- ** Live Link:-  https://kalyan0111.github.io/My-Portfolio/`
+- ** Live Link:-  https://kalyan0111.github.io/CodeOrbit_Portfolio/
 <img width="1516" height="773" alt="image" src="https://github.com/user-attachments/assets/732b2d0f-45a9-4de9-8071-705ccb92da47" />
